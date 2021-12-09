@@ -1,9 +1,9 @@
 # Language-Translator
 A small script in Python which offers users to choose two different Indian languages and provides instant speech-to-speech translation(directly from microphone). 
 Libraries Used:
--Speech-Recognition
--PyAudio
--TextBlob
+* Speech-Recognition
+* PyAudio
+* TextBlob
 
 ## Commands to install the above Libraries:
 -pip install speech-recognition
