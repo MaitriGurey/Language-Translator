@@ -11,7 +11,7 @@ A small script in Python which offers users to choose two different Indian langu
 * pip install textblob
 
 ## Project Motive:
-To overcome the barrier of languages.
+To bridge the gap between languages.
 
 ## Languages Offered:
 
@@ -29,5 +29,5 @@ To overcome the barrier of languages.
     
   ## Status:
   
-  Looking for collaborations to turn the project into an app using Flutter Dart.
+  Looking for collaborations to turn the project into an app using Flutter.
 
