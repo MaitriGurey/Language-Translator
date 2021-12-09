@@ -12,6 +12,10 @@ A small script in Python which offers users to choose two different languages an
 
 ## Project Motive:
 To bridge the gap between languages.
+
+## Screenshot:
+![2021-12-09 (1)](https://user-images.githubusercontent.com/56483420/145356235-8deee392-2b53-4b28-87a2-2298d0bff13a.png)
+
     
   ## Status:
   
