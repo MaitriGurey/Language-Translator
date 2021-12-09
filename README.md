@@ -1,5 +1,5 @@
 # Language-Translator
-A small script in Python which offers users to choose two different Indian languages and provides instant speech-to-text translation(directly from microphone). 
+A small script in Python which offers users to choose two different languages and provides instant speech-to-text translation(directly from microphone). 
 ### Libraries Used:
 * Speech-Recognition
 * PyAudio
@@ -12,20 +12,6 @@ A small script in Python which offers users to choose two different Indian langu
 
 ## Project Motive:
 To bridge the gap between languages.
-
-## Languages Offered:
-
-    Hindi
-    English
-    Bengali
-    Gujarati
-    Kannada
-    Tamil
-    Telugu
-    Urdu
-    Punjabi
-    Malayalam
-    Marathi
     
   ## Status:
   
